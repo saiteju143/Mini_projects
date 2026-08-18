@@ -1,0 +1,83 @@
+2026-08-18 17:58:39,216-INFO-User created successfully
+2026-08-18 17:58:39,216-INFO-User created successfully
+2026-08-18 17:58:39,216-INFO-User created successfully
+2026-08-18 17:58:39,216-INFO-student Teju enrolled successfully
+2026-08-18 17:58:39,217-INFO-User created successfully
+2026-08-18 17:58:39,217-INFO-student Anil enrolled successfully
+2026-08-18 17:58:56,280-INFO-User created successfully
+2026-08-18 17:58:56,280-INFO-User created successfully
+2026-08-18 17:58:56,280-INFO-User created successfully
+2026-08-18 17:58:56,280-INFO-student Teju enrolled successfully
+2026-08-18 17:58:56,280-INFO-User created successfully
+2026-08-18 17:58:56,280-INFO-student Anil enrolled successfully
+2026-08-18 17:58:56,281-INFO-Course created successfully
+2026-08-18 17:59:46,575-INFO-User created successfully
+2026-08-18 17:59:46,575-INFO-User created successfully
+2026-08-18 17:59:46,575-INFO-User created successfully
+2026-08-18 17:59:46,575-INFO-student Teju enrolled successfully
+2026-08-18 17:59:46,575-INFO-User created successfully
+2026-08-18 17:59:46,575-INFO-student Anil enrolled successfully
+2026-08-18 17:59:46,576-INFO-Course created successfully
+2026-08-18 17:59:46,576-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 17:59:46,576-INFO-Course created successfully
+2026-08-18 17:59:46,576-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 17:59:46,576-INFO-Course created successfully
+2026-08-18 17:59:46,576-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 17:59:46,576-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'progress'
+2026-08-18 17:59:46,577-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'course_name'
+2026-08-18 17:59:46,577-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'progress'
+2026-08-18 17:59:46,577-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'course_name'
+2026-08-18 17:59:48,120-INFO-User created successfully
+2026-08-18 17:59:48,120-INFO-User created successfully
+2026-08-18 17:59:48,120-INFO-User created successfully
+2026-08-18 17:59:48,120-INFO-student Teju enrolled successfully
+2026-08-18 17:59:48,121-INFO-User created successfully
+2026-08-18 17:59:48,121-INFO-student Anil enrolled successfully
+2026-08-18 17:59:48,121-INFO-Course created successfully
+2026-08-18 17:59:48,121-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 17:59:48,121-INFO-Course created successfully
+2026-08-18 17:59:48,121-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 17:59:48,121-INFO-Course created successfully
+2026-08-18 17:59:48,121-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 17:59:48,122-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'progress'
+2026-08-18 17:59:48,122-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'course_name'
+2026-08-18 17:59:48,122-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'progress'
+2026-08-18 17:59:48,122-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'course_name'
+2026-08-18 18:00:20,836-INFO-User created successfully
+2026-08-18 18:00:20,836-INFO-User created successfully
+2026-08-18 18:00:20,836-INFO-User created successfully
+2026-08-18 18:00:20,836-INFO-student Teju enrolled successfully
+2026-08-18 18:00:20,836-INFO-User created successfully
+2026-08-18 18:00:20,836-INFO-student Anil enrolled successfully
+2026-08-18 18:00:20,836-INFO-Course created successfully
+2026-08-18 18:00:20,836-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 18:00:20,836-INFO-Course created successfully
+2026-08-18 18:00:20,837-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 18:00:20,837-INFO-Course created successfully
+2026-08-18 18:00:20,837-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 18:00:20,837-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'progress'
+2026-08-18 18:00:20,837-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'course_name'
+2026-08-18 18:00:20,837-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'progress'
+2026-08-18 18:00:20,838-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'course_name'
+2026-08-18 18:00:20,838-ERROR-Unexpected error while viewing enrolled courses:{e}
+2026-08-18 18:00:20,838-ERROR-Unexpected error while viewing enrolled courses:{e}
+2026-08-18 18:00:57,469-INFO-User created successfully
+2026-08-18 18:00:57,469-INFO-User created successfully
+2026-08-18 18:00:57,469-INFO-User created successfully
+2026-08-18 18:00:57,469-INFO-student Teju enrolled successfully
+2026-08-18 18:00:57,469-INFO-User created successfully
+2026-08-18 18:00:57,469-INFO-student Anil enrolled successfully
+2026-08-18 18:00:57,469-INFO-Course created successfully
+2026-08-18 18:00:57,470-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 18:00:57,470-INFO-Course created successfully
+2026-08-18 18:00:57,470-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 18:00:57,470-INFO-Course created successfully
+2026-08-18 18:00:57,470-ERROR-Error while creating course: 'Instructor' object has no attribute 'courses'
+2026-08-18 18:00:57,470-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'progress'
+2026-08-18 18:00:57,470-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'course_name'
+2026-08-18 18:00:57,470-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'progress'
+2026-08-18 18:00:57,471-ERROR-Error while enrolling in course:'NoneType' object has no attribute 'course_name'
+2026-08-18 18:00:57,471-ERROR-Unexpected error while viewing enrolled courses:{e}
+2026-08-18 18:00:57,471-ERROR-Unexpected error while viewing enrolled courses:{e}
+2026-08-18 18:00:57,471-ERROR-error while checking progress:'NoneType' object has no attribute 'progress'
+2026-08-18 18:00:57,471-ERROR-error while checking progress:'NoneType' object has no attribute 'progress'

@@ -1,0 +1,6 @@
+2026-08-17 18:02:08,091-INFO-Arjun attacks Rahul,using:Sword,Damage:20,Rahulhealth is now 80
+2026-08-17 18:02:08,091-INFO-Arjun attacks Kishore,using:Sword,Damage:20,Kishorehealth is now 80
+2026-08-17 18:02:08,092-INFO-Rahul attacks Arjun,using:gold_bow,Damage:15Arjun health is now 85
+2026-08-17 18:02:08,092-INFO-Rahul attacks Kishore,using:gold_bow,Damage:15Kishore health is now 65
+2026-08-17 18:02:08,092-INFO-Kishore attacked Arjun using fire_ball. Damage: 25, Remaining health: 60
+2026-08-17 18:02:08,092-INFO-Kishore attacked Rahul using fire_ball. Damage: 25, Remaining health: 55

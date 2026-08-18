@@ -1,0 +1,126 @@
+2026-08-17 22:26:20,593-INFO-Prodcut added successfully:Laptop
+2026-08-17 22:26:20,593-INFO-Prodcut added successfully:Mobile
+2026-08-17 22:26:20,593-INFO-Prodcut added successfully:Shoes
+2026-08-17 22:26:20,593-INFO-Prodcut added successfully:Watch
+2026-08-17 22:26:20,593-INFO-Prodcut added successfully:Headphones
+2026-08-17 22:26:20,594-INFO-shopping cart created
+2026-08-17 22:26:20,594-INFO-Laptop is available in stock
+2026-08-17 22:26:20,594-INFO-Laptop added to cart successfully
+2026-08-17 22:26:20,594-INFO-Mobile is available in stock
+2026-08-17 22:26:20,594-INFO-Mobile added to cart successfully
+2026-08-17 22:26:20,595-INFO-Shoes is available in stock
+2026-08-17 22:26:20,595-INFO-Shoes added to cart successfully
+2026-08-17 22:26:20,595-INFO-Watch is available in stock
+2026-08-17 22:26:20,595-INFO-Watch added to cart successfully
+2026-08-17 22:26:20,596-INFO-Headphones is available in stock
+2026-08-17 22:26:20,596-ERROR-Headphones not found or out of stock
+2026-08-17 22:26:20,596-ERROR-error while displaying products:{e}
+2026-08-17 22:26:20,596-INFO-Total amount of products :{total}
+2026-08-17 22:26:20,597-INFO-Shoes removed to cart successfully
+2026-08-17 22:26:20,597-ERROR-error while displaying products:{e}
+2026-08-17 22:26:20,597-INFO-Total amount of products :{total}
+2026-08-17 22:28:55,295-INFO-Prodcut added successfully:Laptop
+2026-08-17 22:28:55,296-INFO-Prodcut added successfully:Mobile
+2026-08-17 22:28:55,296-INFO-Prodcut added successfully:Shoes
+2026-08-17 22:28:55,296-INFO-Prodcut added successfully:Watch
+2026-08-17 22:28:55,297-INFO-Prodcut added successfully:Headphones
+2026-08-17 22:28:55,297-INFO-shopping cart created
+2026-08-17 22:28:55,297-INFO-Laptop is available in stock
+2026-08-17 22:28:55,297-INFO-Laptop added to cart successfully
+2026-08-17 22:28:55,297-INFO-Mobile is available in stock
+2026-08-17 22:28:55,297-INFO-Mobile added to cart successfully
+2026-08-17 22:28:55,298-INFO-Shoes is available in stock
+2026-08-17 22:28:55,298-INFO-Shoes added to cart successfully
+2026-08-17 22:28:55,298-INFO-Watch is available in stock
+2026-08-17 22:28:55,298-INFO-Watch added to cart successfully
+2026-08-17 22:28:55,298-INFO-Headphones is available in stock
+2026-08-17 22:28:55,299-ERROR-Headphones not found or out of stock
+2026-08-17 22:28:55,299-ERROR-error while displaying products:{e}
+2026-08-17 22:28:55,299-INFO-Total amount of products :{total}
+2026-08-17 22:28:55,299-INFO-Shoes removed to cart successfully
+2026-08-17 22:28:55,300-ERROR-error while displaying products:{e}
+2026-08-17 22:28:55,301-INFO-Total amount of products :{total}
+2026-08-17 22:30:12,938-INFO-Prodcut added successfully:Laptop
+2026-08-17 22:30:12,939-INFO-Prodcut added successfully:Mobile
+2026-08-17 22:30:12,939-INFO-Prodcut added successfully:Shoes
+2026-08-17 22:30:12,939-INFO-Prodcut added successfully:Watch
+2026-08-17 22:30:12,939-INFO-Prodcut added successfully:Headphones
+2026-08-17 22:30:12,939-INFO-shopping cart created
+2026-08-17 22:30:12,939-INFO-Laptop is available in stock
+2026-08-17 22:30:12,939-INFO-Laptop added to cart successfully
+2026-08-17 22:30:12,939-INFO-Mobile is available in stock
+2026-08-17 22:30:12,939-INFO-Mobile added to cart successfully
+2026-08-17 22:30:12,939-INFO-Shoes is available in stock
+2026-08-17 22:30:12,939-INFO-Shoes added to cart successfully
+2026-08-17 22:30:12,939-INFO-Watch is available in stock
+2026-08-17 22:30:12,940-INFO-Watch added to cart successfully
+2026-08-17 22:30:12,940-INFO-Headphones is available in stock
+2026-08-17 22:30:12,940-ERROR-Headphones not found or out of stock
+2026-08-17 22:30:12,940-ERROR-error while displaying products:{e}
+2026-08-17 22:30:12,940-INFO-Total amount of products :{total}
+2026-08-17 22:30:12,940-INFO-Shoes removed to cart successfully
+2026-08-17 22:30:12,941-ERROR-error while displaying products:{e}
+2026-08-17 22:30:12,941-INFO-Total amount of products :{total}
+2026-08-17 22:32:07,062-INFO-Prodcut added successfully:Laptop
+2026-08-17 22:32:07,062-INFO-Prodcut added successfully:Mobile
+2026-08-17 22:32:07,062-INFO-Prodcut added successfully:Shoes
+2026-08-17 22:32:07,063-INFO-Prodcut added successfully:Watch
+2026-08-17 22:32:07,063-INFO-Prodcut added successfully:Headphones
+2026-08-17 22:32:07,063-INFO-shopping cart created
+2026-08-17 22:32:07,063-INFO-Laptop is available in stock
+2026-08-17 22:32:07,063-INFO-Laptop added to cart successfully
+2026-08-17 22:32:07,063-INFO-Mobile is available in stock
+2026-08-17 22:32:07,063-INFO-Mobile added to cart successfully
+2026-08-17 22:32:07,063-INFO-Shoes is available in stock
+2026-08-17 22:32:07,063-INFO-Shoes added to cart successfully
+2026-08-17 22:32:07,064-INFO-Watch is available in stock
+2026-08-17 22:32:07,064-INFO-Watch added to cart successfully
+2026-08-17 22:32:07,064-INFO-Headphones is available in stock
+2026-08-17 22:32:07,064-ERROR-Headphones not found or out of stock
+2026-08-17 22:32:07,064-ERROR-error while displaying products:'product' object has no attribute 'product_category'
+2026-08-17 22:32:07,064-INFO-Total amount of products :82000
+2026-08-17 22:32:07,065-INFO-Shoes removed to cart successfully
+2026-08-17 22:32:07,066-ERROR-error while displaying products:'product' object has no attribute 'product_category'
+2026-08-17 22:32:07,066-INFO-Total amount of products :80000
+2026-08-17 22:33:26,528-INFO-Prodcut added successfully:Laptop
+2026-08-17 22:33:26,528-INFO-Prodcut added successfully:Mobile
+2026-08-17 22:33:26,528-INFO-Prodcut added successfully:Shoes
+2026-08-17 22:33:26,528-INFO-Prodcut added successfully:Watch
+2026-08-17 22:33:26,528-INFO-Prodcut added successfully:Headphones
+2026-08-17 22:33:26,528-INFO-shopping cart created
+2026-08-17 22:33:26,528-INFO-Laptop is available in stock
+2026-08-17 22:33:26,528-INFO-Laptop added to cart successfully
+2026-08-17 22:33:26,529-INFO-Mobile is available in stock
+2026-08-17 22:33:26,529-INFO-Mobile added to cart successfully
+2026-08-17 22:33:26,529-INFO-Shoes is available in stock
+2026-08-17 22:33:26,529-INFO-Shoes added to cart successfully
+2026-08-17 22:33:26,529-INFO-Watch is available in stock
+2026-08-17 22:33:26,529-INFO-Watch added to cart successfully
+2026-08-17 22:33:26,530-INFO-Headphones is available in stock
+2026-08-17 22:33:26,530-ERROR-Headphones not found or out of stock
+2026-08-17 22:33:26,530-ERROR-error while displaying products:'product' object has no attribute 'product_price'
+2026-08-17 22:33:26,530-INFO-Total amount of products :82000
+2026-08-17 22:33:26,530-INFO-Shoes removed to cart successfully
+2026-08-17 22:33:26,531-ERROR-error while displaying products:'product' object has no attribute 'product_price'
+2026-08-17 22:33:26,531-INFO-Total amount of products :80000
+2026-08-17 22:33:50,125-INFO-Prodcut added successfully:Laptop
+2026-08-17 22:33:50,125-INFO-Prodcut added successfully:Mobile
+2026-08-17 22:33:50,125-INFO-Prodcut added successfully:Shoes
+2026-08-17 22:33:50,125-INFO-Prodcut added successfully:Watch
+2026-08-17 22:33:50,125-INFO-Prodcut added successfully:Headphones
+2026-08-17 22:33:50,125-INFO-shopping cart created
+2026-08-17 22:33:50,125-INFO-Laptop is available in stock
+2026-08-17 22:33:50,125-INFO-Laptop added to cart successfully
+2026-08-17 22:33:50,126-INFO-Mobile is available in stock
+2026-08-17 22:33:50,126-INFO-Mobile added to cart successfully
+2026-08-17 22:33:50,126-INFO-Shoes is available in stock
+2026-08-17 22:33:50,126-INFO-Shoes added to cart successfully
+2026-08-17 22:33:50,126-INFO-Watch is available in stock
+2026-08-17 22:33:50,126-INFO-Watch added to cart successfully
+2026-08-17 22:33:50,126-INFO-Headphones is available in stock
+2026-08-17 22:33:50,127-ERROR-Headphones not found or out of stock
+2026-08-17 22:33:50,127-INFO-Products displayed successfully
+2026-08-17 22:33:50,127-INFO-Total amount of products :82000
+2026-08-17 22:33:50,127-INFO-Shoes removed to cart successfully
+2026-08-17 22:33:50,128-INFO-Products displayed successfully
+2026-08-17 22:33:50,128-INFO-Total amount of products :80000

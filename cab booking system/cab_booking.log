@@ -1,0 +1,2 @@
+2026-08-17 15:27:27,094-ERROR-Booking error:invalid literal for int() with base 10: 'C:\\Users\\Eswar\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe "c:/Users/Eswar/Downloads/EURON/4TH WEEK TASKS/cab booking system/cab_booking.py"'
+2026-08-17 15:36:37,758-INFO-Cab booked successfully- ,Driver:Rahul,distance:25,Fare :500 
