@@ -1,0 +1,51 @@
+ticket_id,customer_name,category,priority,status,assigned_agent,resolution_time
+TICK-1001,Aarav Sharma,Payment,High,Resolved,Priya Nair,4.5h
+TICK-1002,Diya Patel,Technical,Critical,In Progress,Rahul Verma,N/A
+TICK-1003,Rohan Gupta,Login,Low,Closed,Ananya Das,2.0h
+TICK-1004,Neha Singh,Course,Medium,Open,Vikram Malhotra,N/A
+TICK-1005,Kabir Mehta,Refund,High,Resolved,Priya Nair,12.0h
+TICK-1006,Ananya Iyer,Account,Medium,Resolved,Amit Joshi,6.0h
+TICK-1007,Aditya Rao,Payment,Low,Closed,Amit Joshi,24.0h
+TICK-1008,Sanya Kapoor,Technical,High,In Progress,Rahul Verma,N/A
+TICK-1009,Arjun Das,Login,Critical,Resolved,Ananya Das,1.5h
+TICK-1010,Kavya Reddy,Course,Low,Resolved,Vikram Malhotra,18.0h
+TICK-1011,Rohan Kumar,Refund,Medium,Open,Priya Nair,N/A
+TICK-1012,Pooja Nair,Account,High,Resolved,Amit Joshi,5.0h
+TICK-1013,Vikram Singh,Payment,Critical,In Progress,Priya Nair,N/A
+TICK-1014,Tanvi Joshi,Technical,Low,Closed,Rahul Verma,8.0h
+TICK-1015,Karan Malhotra,Login,Medium,Resolved,Ananya Das,3.0h
+TICK-1016,Meera Iyer,Course,High,Resolved,Vikram Malhotra,10.5h
+TICK-1017,Siddharth Verma,Refund,Low,Closed,Priya Nair,48.0h
+TICK-1018,Aniket Roy,Account,Critical,In Progress,Amit Joshi,N/A
+TICK-1019,Deepika Sen,Payment,Medium,Resolved,Priya Nair,7.0h
+TICK-1020,Manish Gupta,Technical,Critical,Resolved,Rahul Verma,2.5h
+TICK-1021,Sneha Patel,Login,Low,Open,Ananya Das,N/A
+TICK-1022,Rahul Sharma,Course,Medium,Closed,Vikram Malhotra,14.0h
+TICK-1023,Priya Das,Refund,High,In Progress,Priya Nair,N/A
+TICK-1024,Amit Kumar,Account,Low,Resolved,Amit Joshi,4.0h
+TICK-1025,Nisha Rao,Payment,High,Resolved,Priya Nair,9.0h
+TICK-1026,Kiran Reddy,Technical,Medium,Closed,Rahul Verma,11.0h
+TICK-1027,Varun Singh,Login,Critical,Resolved,Ananya Das,0.8h
+TICK-1028,Divya Mehta,Course,Low,Open,Vikram Malhotra,N/A
+TICK-1029,Alok Joshi,Refund,Medium,Resolved,Priya Nair,22.0h
+TICK-1030,Swati Roy,Account,High,In Progress,Amit Joshi,N/A
+TICK-1031,Rajesh Kumar,Payment,Low,Closed,Priya Nair,16.0h
+TICK-1032,Sunita Sharma,Technical,Critical,Resolved,Rahul Verma,3.5h
+TICK-1033,Manoj Patel,Login,Medium,Resolved,Ananya Das,2.2h
+TICK-1034,Geeta Iyer,Course,High,In Progress,Vikram Malhotra,N/A
+TICK-1035,Suresh Rao,Refund,Low,Closed,Priya Nair,36.0h
+TICK-1036,Anita Das,Account,Critical,Resolved,Amit Joshi,1.0h
+TICK-1037,Mohan Singh,Payment,Medium,Open,Priya Nair,N/A
+TICK-1038,Kavita Joshi,Technical,High,Resolved,Rahul Verma,7.5h
+TICK-1039,Deepak Malhotra,Login,Low,Closed,Ananya Das,5.5h
+TICK-1040,Pooja Sen,Course,Medium,Resolved,Vikram Malhotra,19.0h
+TICK-1041,Naveen Gupta,Refund,Critical,In Progress,Priya Nair,N/A
+TICK-1042,Rekha Verma,Account,Low,Closed,Amit Joshi,6.5h
+TICK-1043,Vijay Kumar,Payment,High,Resolved,Priya Nair,8.5h
+TICK-1044,Shweta Roy,Technical,Medium,Resolved,Rahul Verma,12.5h
+TICK-1045,Ashok Sharma,Login,Low,Open,Ananya Das,N/A
+TICK-1046,Madhuri Patel,Course,Critical,In Progress,Vikram Malhotra,N/A
+TICK-1047,Ramesh Rao,Refund,Medium,Resolved,Priya Nair,25.0h
+TICK-1048,Preeti Das,Account,High,Closed,Amit Joshi,4.5h
+TICK-1049,Santosh Singh,Payment,Low,Resolved,Priya Nair,14.5h
+TICK-1050,Lakshmi Iyer,Technical,Critical,Resolved,Rahul Verma,4.0h

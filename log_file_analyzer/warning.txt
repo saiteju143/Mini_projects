@@ -1,0 +1,6 @@
+Memory usage high
+Disk space running low
+API response time high
+Multiple failed login attempts
+Server CPU usage high
+Session timeout approaching

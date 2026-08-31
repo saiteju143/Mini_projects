@@ -1,0 +1,13 @@
+Python is easy to learn.
+I am learning file handling.
+Files are used to store data.
+The open function opens a file.
+The write function adds data.
+The read function reads data.
+The readline function reads one line.
+The readlines function reads all lines.
+The append mode adds new data.
+I enjoy learning Python 
+The readlines function reads all lines.
+The append mode adds new data.
+I enjoy learning Python

@@ -1,0 +1,15 @@
+Sudhanshu,Python
+Rahul,Data Science
+Teju,Python
+Anjali,Machine Learning
+Kiran,Data Engineering
+Priya,Python
+Arjun,Data Science
+Neha,Machine Learning
+Rohit,Data Engineering
+Swathi,Python
+Varun,Python
+Meena,Data Science
+Sandeep,Machine Learning
+Divya,Data Engineering
+Manoj,Python

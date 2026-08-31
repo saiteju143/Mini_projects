@@ -1,0 +1,30 @@
+INFO-Application started
+INFO-User login successful
+WARNING-Memory usage high
+ERROR-Database connection failed
+INFO-Retry successful
+ERROR-Payment service unavailable
+INFO-User logout successful
+INFO-New user registered
+WARNING-Disk space running low
+INFO-Database connection established
+ERROR-Failed to fetch user data
+INFO-User data fetched successfully
+WARNING-API response time high
+INFO-Payment processed successfully
+ERROR-Payment transaction failed
+INFO-Application backup completed
+INFO-User profile updated
+WARNING-Multiple failed login attempts
+ERROR-Authentication service unavailable
+INFO-Authentication service restored
+INFO-New order created
+INFO-Order confirmation sent
+ERROR-Email service failed
+WARNING-Server CPU usage high
+INFO-Email service restored
+INFO-Order shipped successfully
+ERROR-File upload failed
+INFO-File upload successful
+WARNING-Session timeout approaching
+INFO-Session renewed successfully
