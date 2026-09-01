@@ -1,0 +1,51 @@
+product_id,product_name,category,brand,price,rating,stock,discount
+P001,Inspiron 15,Laptop,Dell,55000,4.2,15,10
+P002,IdeaPad Slim 3,Laptop,Lenovo,48000,4.1,20,12
+P003,Pavilion 14,Laptop,HP,62000,4.3,12,8
+P004,MacBook Air M2,Laptop,Apple,95000,4.7,8,5
+P005,VivoBook 15,Laptop,Asus,52000,4.2,18,15
+P006,Galaxy S24,Mobile,Samsung,72000,4.6,10,7
+P007,iPhone 15,Mobile,Apple,70000,4.7,14,6
+P008,OnePlus 12,Mobile,OnePlus,64000,4.5,16,10
+P009,Pixel 8,Mobile,Google,58000,4.4,9,9
+P010,Nothing Phone 2,Mobile,Nothing,42000,4.3,22,13
+P011,WH-1000XM5,Headphones,Sony,29990,4.8,11,10
+P012,AirPods Pro 2,Headphones,Apple,24900,4.7,18,5
+P013,QuietComfort 45,Headphones,Bose,28000,4.6,7,12
+P014,JBL Tune 760NC,Headphones,JBL,5999,4.3,25,20
+P015,Sennheiser HD 450,Headphones,Sennheiser,12999,4.5,13,15
+P016,MX Keys,Keyboard,Logitech,8999,4.6,20,10
+P017,K2 Mechanical,Keyboard,Keychron,9500,4.5,9,8
+P018,MK850,Keyboard,Logitech,7499,4.4,15,12
+P019,BlackWidow V3,Keyboard,Razer,10999,4.6,10,15
+P020,Alloy Origins,Keyboard,HyperX,8990,4.5,17,10
+P021,UltraGear 27,Monitor,LG,28000,4.5,8,12
+P022,Odyssey G5,Monitor,Samsung,32000,4.6,6,10
+P023,VG27AQ,Monitor,Asus,35000,4.7,9,8
+P024,S2721D,Monitor,Dell,22000,4.4,14,15
+P025,M27Q,Monitor,Gigabyte,26000,4.5,12,10
+P026,iPad Air,Tablet,Apple,59900,4.7,10,5
+P027,Galaxy Tab S9,Tablet,Samsung,72000,4.6,7,10
+P028,Pad 6,Tablet,Xiaomi,29999,4.5,18,12
+P029,Tab P12,Tablet,Lenovo,32999,4.4,13,15
+P030,OnePlus Pad,Tablet,OnePlus,37999,4.5,11,8
+P031,Wireless Mouse,Accessories,Logitech,1299,4.3,40,20
+P032,Laptop Stand,Accessories,Portronics,1499,4.2,30,15
+P033,USB-C Hub,Accessories,Anker,3499,4.5,25,10
+P034,Webcam C920,Accessories,Logitech,6999,4.6,14,12
+P035,HDMI Cable,Accessories,AmazonBasics,799,4.4,50,25
+P036,Power Bank 20000,Accessories,Ambrane,1999,4.3,35,18
+P037,Bluetooth Mouse,Accessories,HP,999,4.1,45,20
+P038,Laptop Sleeve,Accessories,Targus,1799,4.2,28,15
+P039,Wireless Charger,Accessories,Belkin,2999,4.4,16,10
+P040,Cooling Pad,Accessories,Cooler Master,2499,4.3,20,12
+P041,MacBook Pro M3,Laptop,Apple,169000,4.9,5,4
+P042,ThinkPad E14,Laptop,Lenovo,68000,4.4,11,10
+P043,ROG Strix G16,Laptop,Asus,125000,4.7,6,8
+P044,XPS 13,Laptop,Dell,115000,4.6,7,7
+P045,Envy x360,Laptop,HP,82000,4.5,10,12
+P046,iPhone 15 Pro,Mobile,Apple,129000,4.8,6,4
+P047,Galaxy S24 Ultra,Mobile,Samsung,130000,4.8,5,6
+P048,Nord CE 4,Mobile,OnePlus,24999,4.3,25,15
+P049,Moto Edge 50,Mobile,Motorola,29999,4.4,19,12
+P050,Redmi Note 13,Mobile,Xiaomi,18999,4.2,30,18
