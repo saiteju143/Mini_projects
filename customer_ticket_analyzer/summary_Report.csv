@@ -1,5 +1,46 @@
-Metric,Value
-Mean_Resolution,6.88
-Max_Resolution_time,30.2
-Min_Resolution_time,0.3
-Total_Tickets,50.0
+ BASIC SUMMARY 
+Metric,Value
+Mean_Resolution,6.88
+Max_Resolution_time,30.2
+Min_Resolution_time,0.3
+Total_Tickets,50.0
+
+ CATEGORY COUNT 
+category,Tickets
+Payment,9
+Technical,9
+Login,8
+Course,8
+Refund,8
+Account,8
+
+ PRIORITY COUNT 
+priority,Tickets
+Medium,15
+Low,14
+High,11
+Critical,10
+
+ STATUS COUNT 
+status,Tickets
+Resolved,20
+In Progress,10
+Open,10
+Closed,10
+
+ CATEGORY WISE RESOLUTION MEAN 
+category,mean_resolution
+Account,4.93
+Course,12.83
+Login,0.81
+Payment,5.32
+Refund,22.98
+Technical,3.35
+
+ AGENT WISE TICKETS 
+assigned_agent,Tickets
+Alice Smith,10
+Bob Jones,10
+Charlie Brown,10
+Unassigned,10
+Diana Prince,10
