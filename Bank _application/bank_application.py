@@ -88,7 +88,6 @@ while True:
     elif choice==6:
         for bal in bank_details:
             print(bal)
-    elif choice==7:
         total_money=0
         highest_bal=0
         rich_customer=""
@@ -100,7 +99,7 @@ while True:
 
         print("Total_money in bank:" , total_money)
         print("Rich customer in bank:",rich_customer)
-
+    elif choice==7:
         print("Exiting bank system")
         print("Exit")
         break
