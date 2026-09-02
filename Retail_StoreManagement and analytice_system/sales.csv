@@ -1,0 +1,51 @@
+transaction_id,product_id,product_name,category,quantity,price,customer_city,payment_method
+T001,P001,Laptop,Electronics,1,65000,Hyderabad,UPI
+T002,P002,Smartphone,Electronics,2,30000,Chennai,Card
+T003,P011,TShirt,Clothing,3,1500,Bangalore,Cash
+T004,P021,Python Basics,Books,1,500,Hyderabad,UPI
+T005,P003,Headphones,Electronics,2,2500,Mumbai,Card
+T006,P012,Jeans,Clothing,1,2500,Delhi,UPI
+T007,P022,Data Science,Books,2,750,Pune,Card
+T008,P004,Smartwatch,Electronics,1,5000,Hyderabad,UPI
+T009,P013,Jacket,Clothing,1,3500,Chennai,Cash
+T010,P023,Python Advanced,Books,1,800,Bangalore,Card
+T011,P005,Keyboard,Electronics,2,1200,Mumbai,UPI
+T012,P014,Dress,Clothing,2,2200,Delhi,Card
+T013,P024,SQL Guide,Books,1,650,Hyderabad,UPI
+T014,P006,Mouse,Electronics,3,800,Pune,Cash
+T015,P015,Shoes,Clothing,1,3000,Chennai,Card
+T016,P025,AWS Basics,Books,2,700,Bangalore,UPI
+T017,P007,Monitor,Electronics,1,15000,Hyderabad,Card
+T018,P016,Shirt,Clothing,2,1800,Mumbai,UPI
+T019,P026,Machine Learning,Books,1,900,Delhi,Cash
+T020,P008,Printer,Electronics,1,12000,Pune,Card
+T021,P017,Skirt,Clothing,2,1600,Hyderabad,UPI
+T022,P027,Python Projects,Books,1,600,Chennai,Card
+T023,P009,Tablet,Electronics,1,22000,Bangalore,UPI
+T024,P018,Sweater,Clothing,1,2800,Mumbai,Cash
+T025,P028,Excel Guide,Books,3,550,Delhi,Card
+T026,P010,Camera,Electronics,1,45000,Hyderabad,UPI
+T027,P019,Shorts,Clothing,2,1200,Pune,Card
+T028,P029,Power BI,Books,1,850,Chennai,UPI
+T029,P001,Laptop,Electronics,2,65000,Bangalore,Card
+T030,P020,Hoodie,Clothing,1,2000,Hyderabad,Cash
+T031,P002,Smartphone,Electronics,1,30000,Mumbai,UPI
+T032,P011,TShirt,Clothing,4,1500,Delhi,Card
+T033,P021,Python Basics,Books,2,500,Pune,UPI
+T034,P003,Headphones,Electronics,1,2500,Chennai,Cash
+T035,P012,Jeans,Clothing,2,2500,Bangalore,Card
+T036,P022,Data Science,Books,1,750,Hyderabad,UPI
+T037,P004,Smartwatch,Electronics,2,5000,Mumbai,Card
+T038,P013,Jacket,Clothing,1,3500,Delhi,Cash
+T039,P023,Python Advanced,Books,2,800,Pune,UPI
+T040,P005,Keyboard,Electronics,1,1200,Chennai,Card
+T041,P014,Dress,Clothing,1,2200,Hyderabad,UPI
+T042,P024,SQL Guide,Books,2,650,Bangalore,Card
+T043,P006,Mouse,Electronics,2,800,Mumbai,Cash
+T044,P015,Shoes,Clothing,1,3000,Delhi,UPI
+T045,P025,AWS Basics,Books,1,700,Pune,Card
+T046,P007,Monitor,Electronics,1,15000,Chennai,UPI
+T047,P016,Shirt,Clothing,3,1800,Hyderabad,Cash
+T048,P026,Machine Learning,Books,2,900,Mumbai,Card
+T049,P008,Printer,Electronics,1,12000,Bangalore,UPI
+T050,P017,Skirt,Clothing,2,1600,Delhi,Card

@@ -1,0 +1,34 @@
+product_id,name,brand,price,stock,category,warranty,model,size,material,author,publisher
+P001,Laptop,Dell,65000,10,Electronics,2 years,Inspiron 15,,,,
+P002,Smartphone,Samsung,30000,15,Electronics,1 year,Galaxy A55,,,,
+P003,Headphones,Sony,5000,20,Electronics,1 year,WH-CH520,,,,
+P004,Tablet,Apple,45000,8,Electronics,1 year,iPad Air,,,,
+P005,Monitor,LG,18000,12,Electronics,2 years,UltraGear,,,,
+P006,Keyboard,Logitech,2500,25,Electronics,1 year,K380,,,,
+P007,Mouse,HP,1200,30,Electronics,1 year,Wireless Mouse,,,,
+P008,Smartwatch,Boat,3500,18,Electronics,1 year,Wave Call,,,,
+P009,Speaker,JBL,7000,14,Electronics,1 year,Flip 6,,,,
+P010,Camera,Canon,55000,6,Electronics,2 years,E50,,,,
+P011,TShirt,Nike,1500,25,Clothing,,,M,Cotton,,
+P012,Jeans,Levis,3000,20,Clothing,,,32,Denim,,
+P013,Jacket,Puma,4500,12,Clothing,,,L,Polyester,,
+P014,Shirt,Arrow,2200,18,Clothing,,,M,Cotton,,
+P015,Dress,Zara,3500,10,Clothing,,,S,Rayon,,
+P016,Hoodie,Adidas,4000,15,Clothing,,,XL,Cotton,,
+P017,Shorts,Puma,1800,20,Clothing,,,L,Cotton,,
+P018,Saree,Manyavar,6000,8,Clothing,,,Free Size,Silk,,
+P019,Sweater,H&M,2800,14,Clothing,,,M,Wool,,
+P020,Skirt,Zara,2500,11,Clothing,,,S,Cotton,,
+P021,Python Basics,TechBooks,500,30,Books,,,,,Mark Lutz,OReilly
+P022,Data Science,Packt,900,20,Books,,,,,John Smith,Packt
+P023,Machine Learning,Springer,1200,15,Books,,,,,Tom Mitchell,Springer
+P024,SQL Guide,TechBooks,600,25,Books,,,,,Alan Beaulieu,OReilly
+P025,AWS Handbook,Amazon,1000,18,Books,,,,,John Chambers,Amazon
+P026,Python Projects,Packt,850,22,Books,,,,,Laura Green,Packt
+P027,Deep Learning,MIT Press,1500,10,Books,,,,,Ian Goodfellow,MIT Press
+P028,AI Fundamentals,McGrawHill,1100,13,Books,,,,,Stuart Russell,McGrawHill
+P029,Cloud Computing,Wiley,950,16,Books,,,,,Thomas Erl,Wiley
+P030,Excel Advanced,TechBooks,700,24,Books,,,,,Bill Jelen,TechBooks
+P031,Tablet,Lenovo,22000,12,Electronics
+P032,Jeans,Levis,2500,18,Clothing
+P033,Java Basics,TechBooks,600,20,Books

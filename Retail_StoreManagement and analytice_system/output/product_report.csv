@@ -1,0 +1,5 @@
+Metric,values
+minimum_product_price,500
+maximum_product_price,65000
+average_product_price,7576.0
+products_priced_above_average,"Laptop,Smartphone,Monitor,Printer,Tablet,Camera,Laptop,Smartphone,Monitor,Printer"
