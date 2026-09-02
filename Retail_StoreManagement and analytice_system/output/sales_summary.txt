@@ -1,7 +1,6 @@
-Metric,values
-Total Transactions,50
-Total Revenue,512300
-Average Transaction Value,10246.0
-Best Selling Product,Headphones
-Highest Revenue Category,Electronics
-Highest Revenue City,Bangalore
+Total Transactions : 50
+Total Revenue : 512300
+Average Transaction Value : 10246.0
+Best Selling Product : TShirt
+Highest Revenue Category : Electronics
+Highest Revenue City : Bangalore
