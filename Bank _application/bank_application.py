@@ -69,6 +69,9 @@ while True:
         source_acc=input("enter source acc_num")
         target_acc=input("enter target acc_num")
         amount=int(input("enter amount to transfer"))
+        if amount<=0:
+            print("Amount to transfer to be positive")
+            continue
         source=None
         Target=None
         for bal in bank_details:
