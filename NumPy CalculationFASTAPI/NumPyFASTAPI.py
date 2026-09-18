@@ -31,17 +31,17 @@ def get_variance():
     return {"variance" :float(np.var(numbers))}
 
 #GET /Maximum
-@app.get("/Maximum")
+@app.get("/max")
 def get_maximum():
-    return {"Maximum" :(np.max(numbers))}
+    return {"maximum" :(np.max(numbers))}
 
 #GET /Minimum
-@app.get("/Minimum")
+@app.get("/min")
 def get_minimum():
-    return {"Minimum" :(np.min(numbers))}
+    return {"minimum" :(np.min(numbers))}
 
 #GET /Sum
-@app.get("/Sum")
+@app.get("/sum")
 def get_sum():
     return {"total" :(np.sum(numbers))}
 
@@ -62,10 +62,10 @@ def get_odd():
 def get_stats():
     return {"mean" :float(np.mean(numbers)),
             "median" :float(np.median(numbers)),
-            "std" :float(np.std(numbers)),
+            "std_deviation" :float(np.std(numbers)),
             "variance" :float(np.var(numbers)),
-            "Maximum" :(np.max(numbers)),
-            "Minimum" :(np.min(numbers))}
+            "maximum" :(np.max(numbers)),
+            "minimum" :(np.min(numbers))}
 
 #GET /table/15
 @app.get("/table/{number}")
