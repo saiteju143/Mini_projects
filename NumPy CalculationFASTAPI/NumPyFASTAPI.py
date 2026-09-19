@@ -62,7 +62,7 @@ def get_odd():
 def get_stats():
     return {"mean" :float(np.mean(numbers)),
             "median" :float(np.median(numbers)),
-            "std_deviation" :float(np.std(numbers)),
+            "standard_deviation" :float(np.std(numbers)),
             "variance" :float(np.var(numbers)),
             "maximum" :(np.max(numbers)),
             "minimum" :(np.min(numbers))}
