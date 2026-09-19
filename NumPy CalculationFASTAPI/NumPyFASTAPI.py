@@ -31,12 +31,12 @@ def get_variance():
     return {"variance" :float(np.var(numbers))}
 
 #GET /Maximum
-@app.get("/max")
+@app.get("/maximum")
 def get_maximum():
     return {"maximum" :(np.max(numbers))}
 
 #GET /Minimum
-@app.get("/min")
+@app.get("/minimum")
 def get_minimum():
     return {"minimum" :(np.min(numbers))}
 
