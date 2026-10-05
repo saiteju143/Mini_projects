@@ -63,7 +63,7 @@ class StatusUpdate(BaseModel):
 def create_ticket(ticket:CreateTicket):
     current_time=datetime.now(timezone.utc)
     ticket_data={
-        "customer":Customer.model_dump(),
+        "customer":ticket.model_dump(),
         "title":ticket.title,
         "description":ticket.description,
         "category":ticket.category,
@@ -87,10 +87,10 @@ def retrieval_tickets():
         del ticket["_id"]
     return tickets
 
-@app.put("update_tickets/{ticket_id}")
+@app.put("/update_tickets/{ticket_id}")
 def update_tickets(ticket_id:str,ticket:UpdateTicket):
     try:
-        ObjectId=ObjectId(ticket_id)
+        objectId=ObjectId(ticket_id)
     except Exception:
         raise HTTPException(
             status_code=400,
@@ -106,7 +106,7 @@ def update_tickets(ticket_id:str,ticket:UpdateTicket):
         
     result=Ticket_collection.update_one(
         {
-            "_id":ObjectId(ticket_id)
+            "_id":objectId
         },
         {
             "$set":update_data
@@ -123,7 +123,7 @@ def update_tickets(ticket_id:str,ticket:UpdateTicket):
         "message":"Ticket updated successfully"
     }
 
-@app.delete("delete_ticket/{ticket_id}")
+@app.delete("/delete_ticket/{ticket_id}")
 def delete_ticket(ticket_id:str):
     try:
         object_id=ObjectId(ticket_id)
@@ -142,7 +142,7 @@ def delete_ticket(ticket_id:str):
         )
     return{
         "message":"Ticket deleted successfully",
-        "ticket_id":result
+        "ticket_id":ticket_id
 
     }
 
@@ -160,17 +160,19 @@ def adding_comments(ticket_id:str,comment:Comment):
         "author":comment.author,
         "created_at":datetime.now(timezone.utc)
     }
-    result=Ticket_collection.update_one({
-        "id":ObjectId
+    result = Ticket_collection.update_one(
+    {
+        "_id": object_id
+    },
+    {
+        "$push": {
+            "comments": comment_data
         },
-        {
-            "$push":{"comments" : comment_data}
-        },
-        {
-            "$set":{"updated_at":datetime.now(timezone.utc)}
+        "$set": {
+            "updated_at": datetime.now(timezone.utc)
         }
-        
-        )
+    }
+)
     if result.matched_count==0:
         raise HTTPException(
                 status_code=404,
@@ -190,7 +192,7 @@ def status_update(ticket_id:str,status:StatusUpdate):
             detail="Invalid Ticket_id"
         )
     result=Ticket_collection.update_one({
-        "id":object_id
+        "_id":object_id
     },
     {
         "$set":{
@@ -233,16 +235,21 @@ def search_tickets(
     if status:
         filter["status"]=status
     if search:
-        filter["$or"]=[{
-            "title":{
-                "$regex":search,
-                "$options":"i"
-            },
-            "description":{
-                "$regex":search,
-                "$options":"i"
-            }
-        }]
+        if search:
+            filter["$or"] = [
+                {
+                    "title": {
+                        "$regex": search,
+                        "$options": "i"
+                    }
+                },
+                {
+                    "description": {
+                        "$regex": search,
+                        "$options": "i"
+                    }
+                }
+            ]
     tickets=list(Ticket_collection.find(filter))
     for ticket in tickets:
         ticket["id"]=str(ticket["_id"])
